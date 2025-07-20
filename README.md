@@ -42,7 +42,7 @@ To build a user-friendly Excel dashboard that provides:
 
 - <a href="Sales Executive Performance Data.xlsx">Click Here</a> – Dataset used
 - `README.md` – Project documentation
-- <a href="">Click Here</a> – Dashboard preview image
+- <a href="Screenshot 2025-07-19 144538.png">Click Here</a> – Dashboard preview image
 
 ---
 
