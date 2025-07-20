@@ -40,9 +40,9 @@ To build a user-friendly Excel dashboard that provides:
 
 ## 📂 Files Included
 
-- <a href="" – Dataset used
+- <a href="Sales Executive Performance Data.xlsx">Click Here</a> – Dataset used
 - `README.md` – Project documentation
-- `Screenshot.png` – Dashboard preview image
+- <a href="">Click Here</a> – Dashboard preview image
 
 ---
 
